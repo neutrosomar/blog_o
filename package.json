@@ -1,0 +1,7 @@
+{
+  "name": "bahia-chimbote",
+  "private": true,
+  "scripts": {
+    "start": "php -S 127.0.0.1:3847 -t ."
+  }
+}
